@@ -1,3 +1,17 @@
+# DillyDaily
+Youre daily dilly tracker tracking your favourite dailies such as wordle, krillion, timeguessr and more!
+
+- can add "permissions": ["activeTab"] if want temp access to website they on (read url, inject script css)
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
